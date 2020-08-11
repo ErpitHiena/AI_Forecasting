@@ -1,4 +1,9 @@
 # Maybe try adding something
+# So logic goes as follows:
+# 1) Pull from Gitkraken
+# 2) Push to GitHub
+
+
 # Mother (main) file
 
 import xlwings as xw
